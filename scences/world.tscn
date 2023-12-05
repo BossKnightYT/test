@@ -93,4 +93,4 @@ layer_2/name = "ysort"
 layer_2/tile_data = PackedInt32Array(458757, 393218, 7, 458762, 655362, 7, -131060, 2, 5, 13, 2, 5, 196621, 524290, 6, 327693, 393218, 7, 262158, 393218, 7, -131057, 2, 5, 65551, 524290, 6, 393231, 655362, 7, -131054, 655362, 7)
 
 [node name="player" parent="." instance=ExtResource("4_s704o")]
-position = Vector2(24, 128)
+position = Vector2(240, 96)
